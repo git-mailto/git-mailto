@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @git-mailto
-- 👀 I’m interested in web developement via JS, React, node.
+- 👀 I’m interested in web developement via JS, React, Vue.js, node.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
